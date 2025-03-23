@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\tpmodul6_1302204032.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\tpmodul6_1302204032.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\tpmodul6_1302204032.AssemblyInfo.cs
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\tpmodul6_1302204032.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\tpmodul6_1302204032.sourcelink.json
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\bin\Debug\net8.0\tpmodul6_1302204032.exe
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\bin\Debug\net8.0\tpmodul6_1302204032.deps.json
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\bin\Debug\net8.0\tpmodul6_1302204032.runtimeconfig.json
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\bin\Debug\net8.0\tpmodul6_1302204032.dll
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\bin\Debug\net8.0\tpmodul6_1302204032.pdb
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\tpmodul6_1302204032.dll
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\refint\tpmodul6_1302204032.dll
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\tpmodul6_1302204032.pdb
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\tpmodul6_1302204032.genruntimeconfig.cache
+C:\Users\HP\source\repos\kpl\tpmodul6_1302204032\tpmodul6_1302204032\obj\Debug\net8.0\ref\tpmodul6_1302204032.dll
